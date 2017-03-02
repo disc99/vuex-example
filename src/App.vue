@@ -6,12 +6,12 @@
 </template>
 
 <script>
-import Hello from './components/Hello'
+import CurrentTodos from './components/CurrentTodos'
 
 export default {
   name: 'app',
   components: {
-    Hello
+    CurrentTodos
   }
 }
 </script>
