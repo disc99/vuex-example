@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import CurrentTodos from './components/CurrentTodos'
+import CurrentTodos from './components/CurrentTodos.vue'
 
 export default {
   name: 'app',
